@@ -1,0 +1,13 @@
+***YOU NEED TO DOWNLOAD AND INSTALL THIS***
+
+--python 3x(https://www.python.org/downloads/)
+
+***IF YOU FINISH TO INSTALL PYTHON 3X INSTALL THIS TO YOUR COMMAND PROMPT***
+
+--pygame
+
+
+
+***IF YOUR PIP DOSNT WORK TRY THIS AND YOUR PIP WILL FUNCTION PROPERLY***
+
+git install pip(do this in your command prompt)
